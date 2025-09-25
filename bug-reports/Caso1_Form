@@ -15,4 +15,16 @@ BUG-001
 El campo `input[name="name"]` debería existir y permitir ingresar el nombre.
 
 ## Resultado observado
-Cypress arroja el error:
+Cypress arroja el error: Expected to find element: input[name="name"], but never found it.
+
+
+## Evidencia
+- Captura en `../screenshots-evidencia/contact-form-failure.png`
+
+## Severidad
+Alta — el formulario no puede completarse correctamente.
+
+## Posible causa
+El input está definido con `id="name"` pero sin atributo `name="name"`.
+
+

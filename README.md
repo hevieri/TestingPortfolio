@@ -34,7 +34,6 @@ Integra validaciones defensivas, reportes de bugs, simulaciones operativas y aut
 🔹 Formación en curso en QA Testing, consolidando experiencia autodidacta con metodologías formales  
 
 ---
-
 ## 🧰 Herramientas y skills aplicadas
 - **Frontend & UI**: React, Vite, HTML5, CSS3, JS, WordPress  
 - **Testing manual**: QA funcional, validación defensiva, heurísticas UX  
@@ -45,10 +44,15 @@ Integra validaciones defensivas, reportes de bugs, simulaciones operativas y aut
 
 ---
 
+## 🔗 Tablero de QA en Jira
+Este portfolio se complementa con un tablero de gestión en Jira, donde se documentan **casos de prueba**, **bugs** y su trazabilidad hasta los commits en GitHub.
+
+- [Ver tablero en Jira](https://tujira.atlassian.net/jira/software/projects/QA/boards/1)
+
+---
 
 ## 🚀 Objetivo
-
-Mostrar cómo el testing manual puede ser funcional, preciso y escalable, incluso en operaciones unipersonales. Este portfolio forma parte de la estructura técnica de mi microagencia, orientada a entregar soluciones reales, sin humo ni simbolismos vacíos.
+Mostrar cómo el testing manual puede ser funcional, preciso y escalable, incluso en operaciones unipersonales...
 
 ---
 

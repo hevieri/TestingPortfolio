@@ -1,49 +1,50 @@
-# 🧪 Portfolio de Testing Manual — Erika Helfenstern
+# 🧪 Portfolio de Testing 
 
-Este repositorio documenta mi enfoque técnico y funcional en testing manual, aplicado sobre proyectos reales desarrollados en **WordPress**, **VSC** y **React**. Integra validaciones heurísticas, testing defensivo, reportes de bugs y simulaciones operativas, con sensibilidad visual y criterio racional.
+Este repositorio documenta mi enfoque técnico y funcional en **testing general**: manual, automatizado y heurístico.  
+Integra validaciones defensivas, reportes de bugs, simulaciones operativas y automatización con Cypress, siempre con sensibilidad visual y criterio racional.
 
-> 🎯 No es una vitrina decorativa: es una hoja técnica viva, orientada a la detección, documentación y resignificación de errores con impacto real.
+🎯 No es una vitrina decorativa: es una hoja técnica viva, orientada a la detección, documentación y resignificación de errores con impacto real.
 
 ---
 
 ## 🎯 Enfoque funcional
-
-✔️ Testing manual defensivo, sin marketing vacío  
+✔️ Testing manual defensivo y exploratorio  
+✔️ Automatización con Cypress, Postman y flujos CI/CD  
 ✔️ Validación de formularios, layouts y exportables  
 ✔️ Reportes comparativos con trazabilidad real  
 ✔️ Resignificación del error como parte del proceso técnico  
-✔️ Integración de heurísticas UX/UI desde el diseño gráfico digital
+✔️ Integración de heurísticas UX/UI desde el diseño gráfico digital  
 
 ---
 
 ## 🧠 Experiencia aplicada
-
-🔹 Validación visual y funcional de sitios propios en **WordPress** y **VSC**  
+🔹 Validación visual y funcional de sitios propios en WordPress y VSC  
 🔹 Testing quirúrgico sobre componentes React y exportadores técnicos  
-🔹 Aplicación de heurísticas de Nielsen en proyectos reales:
+🔹 Automatización de flujos críticos con Cypress y validación de APIs con Postman  
+🔹 Aplicación de heurísticas de Nielsen en proyectos reales:  
 
-| Heurística UX | Aplicación |
-|---------------|------------|
-| Visibilidad del estado | Feedback visual, loaders, mensajes |
-| Consistencia | Tipografías, layouts, jerarquía visual |
-| Prevención de errores | Testing defensivo en formularios |
-| Reconocer vs recordar | Navegación intuitiva, etiquetas claras |
-| Flexibilidad | Comportamiento responsivo, shortcuts |
+| Heurística UX          | Aplicación                                |
+|-------------------------|-------------------------------------------|
+| Visibilidad del estado  | Feedback visual, loaders, mensajes        |
+| Consistencia            | Tipografías, layouts, jerarquía visual    |
+| Prevención de errores   | Testing defensivo en formularios          |
+| Reconocer vs recordar   | Navegación intuitiva, etiquetas claras    |
+| Flexibilidad            | Comportamiento responsivo, shortcuts      |
 
-🔹 Formación en curso en **QA Testing**, consolidando experiencia autodidacta con metodologías formales
+🔹 Formación en curso en QA Testing, consolidando experiencia autodidacta con metodologías formales  
 
 ---
 
 ## 🧰 Herramientas y skills aplicadas
-
-- React, Vite, HTML5, CSS3, JS, WordPress  
-- QA funcional y validación defensiva  
-- Redacción técnica de reportes y scripts adaptativos  
-- Comparativa entre versiones y detección quirúrgica de fallos  
-- Prototipado en Figma, wireframes y jerarquía visual  
-- Diagnóstico de errores en layouts, formularios y exportables
+- **Frontend & UI**: React, Vite, HTML5, CSS3, JS, WordPress  
+- **Testing manual**: QA funcional, validación defensiva, heurísticas UX  
+- **Testing automatizado**: Cypress, Postman, Selenium (en progreso)  
+- **DevOps & CI/CD**: GitHub Actions, integración de scripts de validación  
+- **Documentación**: Redacción técnica, reportes adaptativos, comparativas de versiones  
+- **UX/UI**: Prototipado en Figma, wireframes, jerarquía visual  
 
 ---
+
 
 ## 🚀 Objetivo
 

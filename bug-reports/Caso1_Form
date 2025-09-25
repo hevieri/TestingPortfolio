@@ -1,0 +1,18 @@
+# 🐞 Bug Report: Campo "name" no encontrado en ContactForm
+
+## ID
+BUG-001
+
+## Componente afectado
+`ContactForm.jsx`
+
+## Pasos para reproducir
+1. Ejecutar el caso de prueba CP-001.
+2. Cypress intenta localizar el campo `input[name="name"]`.
+3. El test falla tras 4 segundos de espera.
+
+## Resultado esperado
+El campo `input[name="name"]` debería existir y permitir ingresar el nombre.
+
+## Resultado observado
+Cypress arroja el error:

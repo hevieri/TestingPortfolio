@@ -34,7 +34,10 @@ Dentro del archivo Excel enlazado abajo encontrás todos los artefactos agrupado
 
 ## Enlace al archivo principal
 
-- Archivo Excel con todo el material: https://docs.google.com/spreadsheets/d/1rg3JzDnNXgR7xUXsvFjv7wAk1GFYR7YxMcPOVRwwVug/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1rg3JzDnNXgR7xUXsvFjv7wAk1GFYR7YxMcPOVRwwVug/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1eLYD_9UDMD8f4UIoYJN2T3rqiYZBT4F1KVG4kJ_i0RU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1LgeSr9WK2LdcTHcHX1bqfr6deJZbgFno2OVDjyZQ-sI/edit?usp=sharing
 
 ---
 

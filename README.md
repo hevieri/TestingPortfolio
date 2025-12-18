@@ -62,7 +62,7 @@ Estas certificaciones complementan mi experiencia autodidacta y aplicada en test
 
 | Certificación | Institución / Curso | Enlace |
 |---------------|---------------------|--------|
-| QA Testing Manual | Talento Tech | [Ver certificado próximamente](https://drive.google.com/file/d/ID_DEL_ARCHIVO/view?usp=sharing) |
+| QA Testing Manual | Talento Tech | [Ver certificación](https://drive.google.com/file/d/1rCixeX1xjnzvbmsziTBvdn0HSRui_aMi/view) |
 | Diseño UX/UI aplicado | Diseño Gráfico Digital - ORT | [Ver certificación](https://drive.google.com/file/d/1ZDxu88KGn_yEL3D6CoGZzZPgCc6SFFQE/view) |
 | Depuración código en pruebas unitarias | LinkedIn Learning | [Ver certificación](https://drive.google.com/file/d/1QvX8oPT_02cVJW3roOqUyLLrt5IxBAX8/view) |
 

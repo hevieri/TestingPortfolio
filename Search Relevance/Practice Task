@@ -1,6 +1,7 @@
 # 🔎 Search Relevance Project — Product Judgments
 
-[![📊 Estado del repo](https://img.shields.io/badge/status-complete-brightgreen)](https://docs.google.com/spreadsheets/d/1tqy0uJ6JeWUeaKltBU5_eeEovP3oHcF2Nels4Nv198U/edit?usp=sharing) [![📑 Dataset](https://img.shields.io/badge/dataset-excel-blue)](https://docs.google.com/spreadsheets/d/1tqy0uJ6JeWUeaKltBU5_eeEovP3oHcF2Nels4Nv198U/edit?usp=sharing) [![🖼️ Screenshots](https://img.shields.io/badge/screenshots-attached-orange)](#)
+[![📑 Dataset](https://img.shields.io/badge/dataset-excel-blue)](https://docs.google.com/spreadsheets/d/1tqy0uJ6JeWUeaKltBU5_eeEovP3oHcF2Nels4Nv198U/edit?usp=sharing) 
+
 
 Este repositorio acompaña la documentación del proyecto de evaluación de productos frente a queries de búsqueda.  
 El archivo Excel enlazado contiene todos los casos registrados: queries, productos ofrecidos, coincidencias/mismatches de atributos, etiquetas de relevancia y explicaciones breves.

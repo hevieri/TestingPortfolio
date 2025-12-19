@@ -1,0 +1,49 @@
+# Search Relevance Project — Product Judgments
+
+[![Estado del repo](https://img.shields.io/badge/status-complete-brightgreen)](https://docs.google.com/spreadsheets/d/1tqy0uJ6JeWUeaKltBU5_eeEovP3oHcF2Nels4Nv198U/edit?usp=sharing) [![Dataset](https://img.shields.io/badge/dataset-excel-blue)](https://docs.google.com/spreadsheets/d/1tqy0uJ6JeWUeaKltBU5_eeEovP3oHcF2Nels4Nv198U/edit?usp=sharing)
+
+Este repositorio acompaña la documentación del proyecto de evaluación de productos frente a queries de búsqueda.  
+El archivo Excel enlazado contiene todos los casos registrados: queries, productos ofrecidos, coincidencias/mismatches de atributos, etiquetas de relevancia y explicaciones breves.
+
+---
+
+## Qué vas a encontrar en el Excel
+
+- **Search Query (SQ):** texto de la búsqueda original.  
+- **Offered Product (OP):** producto analizado, con link al PDP y/o captura.  
+- **Match/Mismatch (atributos):** puntos de coincidencia y diferencia (marca, tipo, formato, idioma, especificaciones).  
+- **Relevance Label:** etiqueta final asignada (Exact, Substitute, Complement, Irrelevant, Unjudgeable).  
+- **Short Explanation:** justificación breve de la decisión.  
+- **Screenshots:** evidencia visual de cada caso.
+
+> El Excel utiliza formato condicional para distinguir etiquetas por color:  
+> Verde = Exact, Amarillo = Substitute, Azul = Complement, Rojo = Irrelevant, Gris = Unjudgeable.
+
+---
+
+## Cómo revisarlo (rápido)
+
+1. Abrí el Excel desde el enlace en este README.  
+2. Filtrá por **Relevance Label** para ver ejemplos agrupados.  
+3. Revisá **Match/Mismatch** para entender por qué el producto entra o no en la intención de la query.  
+4. Abrí los enlaces PDP o capturas para validar contexto real del juicio.  
+5. Consultá la **Short Explanation** para confirmar la lógica detrás de cada etiqueta.  
+
+---
+
+## Ejemplo de fila
+
+| SQ (Search Query)         | OP (Offered Product)                                      | Match/Mismatch (atributos)                          | Label       | Short Explanation                                                                 |
+|----------------------------|----------------------------------------------------------|-----------------------------------------------------|------------|-----------------------------------------------------------------------------------|
+| Indiana Jones blu ray      | National Treasure 2 – Book of Secrets [Blu-ray]          | Match: formato Blu-ray. Mismatch: distinto título/franquicia | Substitute | Es aventura y Blu-ray, pero no es la saga buscada.                                |
+| puntal expansión urko      | Puntal telescópico URKO (Amazon PDP B07KCGBYG4)          | Match: tipo puntal, marca URKO, atributo telescópico/expansión | Exact      | Coincide marca y función con expansión; responde a la intención de la query.      |
+
+---
+
+## Recursos del proyecto
+
+- **Excel/Google Sheets:** dataset con todos los casos documentados.  
+- **Screenshots:** carpeta con capturas de SQ, OP y PDP.  
+- **README.md:** explicación del proyecto y estructura de la tabla.  
+
+---

@@ -4,14 +4,6 @@
 Soy Tester QA Manual, con certificación del programa "Buenos Aires Aprende".
 Actualmente me encuentro trabajando de manera freelance. 
 
-
-Actualmente estoy expandiendo mis habilidades en automatización de pruebas, con un foco en:
-
-* **Fundamentos de Programación:** Fortaleciendo mis bases en Python.
-* **Selenium WebDriver con Python:** Cursando "Automatización de Pruebas Web con Selenium y Python" en **Atenea Conocimientos** para dominar la creación de scripts robustos y eficientes.
-* **API Testing:** Aprendiendo los conceptos de pruebas de API y herramientas como Postman, con planes de explorar RestAssured.
-* **Git y GitHub:** Mejorando mi fluidez en el control de versiones para colaboración y gestión de proyectos.
-
 🌱 **Actualmente estoy aprendiendo:**
 
 * Patrones de diseño para pruebas (Page Object Model).

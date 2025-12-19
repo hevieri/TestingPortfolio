@@ -11,10 +11,10 @@ Actualmente me encuentro trabajando de manera freelance.
 * Metodologías Ágiles y su impacto en QA.
 
 
-# 🧪 Portfolio de Testing 
+#  Portfolio de Testing 
 
-
-## 🎯 Enfoque funcional
+Mi portfolio se compone de:
+## Enfoque funcional
 ✔️ Testing manual defensivo y exploratorio  
 ✔️ Automatización con Cypress, Postman y flujos CI/CD  
 ✔️ Validación de formularios, layouts y exportables  
@@ -23,7 +23,7 @@ Actualmente me encuentro trabajando de manera freelance.
 ✔️ Integración de heurísticas UX/UI desde el diseño gráfico digital  
 
 
-## 🧠 Experiencia aplicada
+## Experiencia aplicada
 🔹 Validación visual y funcional de sitios propios en WordPress y VSC  
 🔹 Testing quirúrgico sobre componentes React y exportadores técnicos  
 🔹 Automatización de flujos críticos con Cypress y validación de APIs con Postman  
@@ -31,19 +31,8 @@ Actualmente me encuentro trabajando de manera freelance.
 
 
 ---
-## 🧰 Herramientas y skills aplicadas
-- **Frontend & UI**: React, Vite, HTML5, CSS3, JS, WordPress  
-- **Testing manual**: QA funcional, validación defensiva, heurísticas UX  
-- **Testing automatizado**: Cypress, Postman, Selenium (en progreso)  
-- **DevOps & CI/CD**: GitHub Actions, integración de scripts de validación  
-- **Documentación**: Excel, redacción técnica, reportes adaptativos, comparativas de versiones  
-- **Gestión de proyectos**: Jira, trazabilidad de tareas, seguimiento de bugs y user stories  
-- **UX/UI**: Prototipado en Figma, wireframes, jerarquía visual  
 
-
----
-
-
+# 🧠 Conocimientos y certificaciones 
 
 ## 📜 Certificaciones técnicas
 
@@ -56,7 +45,19 @@ Estas certificaciones complementan mi experiencia autodidacta y aplicada en test
 | Depuración código en pruebas unitarias | LinkedIn Learning | [Ver certificación](https://drive.google.com/file/d/1QvX8oPT_02cVJW3roOqUyLLrt5IxBAX8/view) |
 
 
+
+## 🧰 Herramientas y skills aplicadas
+- **Frontend & UI**: React, Vite, HTML5, CSS3, JS, WordPress  
+- **Testing manual**: QA funcional, validación defensiva, heurísticas UX  
+- **Testing automatizado**: Cypress, Postman, Selenium (en progreso)  
+- **DevOps & CI/CD**: GitHub Actions, integración de scripts de validación  
+- **Documentación**: Excel, redacción técnica, reportes adaptativos, comparativas de versiones  
+- **Gestión de proyectos**: Jira, trazabilidad de tareas, seguimiento de bugs y user stories  
+- **UX/UI**: Prototipado en Figma, wireframes, jerarquía visual  
+
+
 ---
+
 
 ## 📬 Contacto
 

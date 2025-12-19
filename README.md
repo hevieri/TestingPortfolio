@@ -1,11 +1,26 @@
+# ¡Hola! Soy Erika 👋
+![QA Logo](https://raw.githubusercontent.com/hevieri/TestingPortfolio/main/Recursos/qa.svg)
+
+Soy Tester QA Manual, con certificación del programa "Buenos Aires Aprende".
+Actualmente me encuentro trabajando de manera freelance. 
+
+
+Actualmente estoy expandiendo mis habilidades en automatización de pruebas, con un foco en:
+
+* **Fundamentos de Programación:** Fortaleciendo mis bases en Python.
+* **Selenium WebDriver con Python:** Cursando "Automatización de Pruebas Web con Selenium y Python" en **Atenea Conocimientos** para dominar la creación de scripts robustos y eficientes.
+* **API Testing:** Aprendiendo los conceptos de pruebas de API y herramientas como Postman, con planes de explorar RestAssured.
+* **Git y GitHub:** Mejorando mi fluidez en el control de versiones para colaboración y gestión de proyectos.
+
+🌱 **Actualmente estoy aprendiendo:**
+
+* Patrones de diseño para pruebas (Page Object Model).
+* Integración básica con herramientas de CI/CD.
+* Metodologías Ágiles y su impacto en QA.
+
+
 # 🧪 Portfolio de Testing 
 
-Este repositorio documenta mi enfoque técnico y funcional en **testing general**: manual, automatizado y heurístico.  
-Integra validaciones defensivas, reportes de bugs, simulaciones operativas y automatización con Cypress, siempre con sensibilidad visual y criterio racional.
-
-🎯 No es una vitrina decorativa: es una hoja técnica viva, orientada a la detección, documentación y resignificación de errores con impacto real.
-
----
 
 ## 🎯 Enfoque funcional
 ✔️ Testing manual defensivo y exploratorio  
@@ -15,7 +30,6 @@ Integra validaciones defensivas, reportes de bugs, simulaciones operativas y aut
 ✔️ Resignificación del error como parte del proceso técnico  
 ✔️ Integración de heurísticas UX/UI desde el diseño gráfico digital  
 
----
 
 ## 🧠 Experiencia aplicada
 🔹 Validación visual y funcional de sitios propios en WordPress y VSC  
@@ -23,15 +37,6 @@ Integra validaciones defensivas, reportes de bugs, simulaciones operativas y aut
 🔹 Automatización de flujos críticos con Cypress y validación de APIs con Postman  
 🔹 Aplicación de heurísticas de Nielsen en proyectos reales:  
 
-| Heurística UX          | Aplicación                                |
-|-------------------------|-------------------------------------------|
-| Visibilidad del estado  | Feedback visual, loaders, mensajes        |
-| Consistencia            | Tipografías, layouts, jerarquía visual    |
-| Prevención de errores   | Testing defensivo en formularios          |
-| Reconocer vs recordar   | Navegación intuitiva, etiquetas claras    |
-| Flexibilidad            | Comportamiento responsivo, shortcuts      |
-
-🔹 Formación en curso en QA Testing, consolidando experiencia autodidacta con metodologías formales  
 
 ---
 ## 🧰 Herramientas y skills aplicadas
@@ -39,22 +44,14 @@ Integra validaciones defensivas, reportes de bugs, simulaciones operativas y aut
 - **Testing manual**: QA funcional, validación defensiva, heurísticas UX  
 - **Testing automatizado**: Cypress, Postman, Selenium (en progreso)  
 - **DevOps & CI/CD**: GitHub Actions, integración de scripts de validación  
-- **Documentación**: Redacción técnica, reportes adaptativos, comparativas de versiones  
+- **Documentación**: Excel, redacción técnica, reportes adaptativos, comparativas de versiones  
+- **Gestión de proyectos**: Jira, trazabilidad de tareas, seguimiento de bugs y user stories  
 - **UX/UI**: Prototipado en Figma, wireframes, jerarquía visual  
 
----
-
-## 🔗 Tablero de QA en Jira
-Este portfolio se complementa con un tablero de gestión en Jira, donde se documentan **casos de prueba**, **bugs** y su trazabilidad hasta los commits en GitHub.
-
-- [Ver tablero en Jira](https://tujira.atlassian.net/jira/software/projects/QA/boards/1)
 
 ---
 
-## 🚀 Objetivo
-Mostrar cómo el testing manual puede ser funcional, preciso y escalable, incluso en operaciones unipersonales...
 
----
 
 ## 📜 Certificaciones técnicas
 
@@ -72,6 +69,6 @@ Estas certificaciones complementan mi experiencia autodidacta y aplicada en test
 ## 📬 Contacto
 
 📎 [LinkedIn](https://www.linkedin.com/in/hevieri/)  
-📧 Para colaboraciones técnicas, validaciones funcionales o proyectos de testing, podés escribirme directamente.
+📧 Para colaboraciones técnicas, validaciones funcionales o proyectos, podés escribirme directamente.
 
 ---

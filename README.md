@@ -46,18 +46,6 @@ Estas certificaciones complementan mi experiencia autodidacta y aplicada en test
 
 
 
-## 🧰 Herramientas y skills aplicadas
-- **Frontend & UI**: React, Vite, HTML5, CSS3, JS, WordPress  
-- **Testing manual**: QA funcional, validación defensiva, heurísticas UX  
-- **Testing automatizado**: Cypress, Postman, Selenium (en progreso)  
-- **DevOps & CI/CD**: GitHub Actions, integración de scripts de validación  
-- **Documentación**: Excel, redacción técnica, reportes adaptativos, comparativas de versiones  
-- **Gestión de proyectos**: Jira, trazabilidad de tareas, seguimiento de bugs y user stories  
-- **UX/UI**: Prototipado en Figma, wireframes, jerarquía visual  
-
-
----
-
 
 ## 📬 Contacto
 

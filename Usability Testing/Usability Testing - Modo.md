@@ -2,6 +2,12 @@
 
 Este análisis aplica criterios heurísticos de Nielsen sobre una app de registro de cuenta, evaluando consistencia visual, flujo de navegación, prevención de errores y eficiencia operativa. El enfoque se basa en observación directa, sensibilidad UX y propuestas funcionales de mejora.
 
+
+## 📎 Enlace al archivo principal
+
+- 📁 [Documentación Figma](https://www.figma.com/design/hAHdSWZeEFCaHESPtAfzmM/MODO---UX--Copy-?node-id=0-1&t=uv7cMyzkKPalgpVQ-1)
+
+
 ---
 
 ## 🎯 Contexto
@@ -52,8 +58,6 @@ Este análisis aplica criterios heurísticos de Nielsen sobre una app de registr
 ## 📸 Evidencia visual — Capturas anotadas
 
 Las observaciones se acompañan con capturas reales de la app, donde se señalan oportunidades de mejora en navegación, consistencia y prevención de errores.
-
-👉 [Ver capturas anotadas en Figma](https://www.figma.com/design/hAHdSWZeEFCaHESPtAfzmM/MODO---UX--Copy-?node-id=0-1&t=uv7cMyzkKPalgpVQ-1)
 
 Incluye:
 - Pantallas de registro fragmentadas

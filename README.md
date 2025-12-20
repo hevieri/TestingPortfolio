@@ -11,7 +11,7 @@ Actualmente me encuentro trabajando de manera freelance.
 
 ---
 
-# 📂 Portfolio de Testing 
+#  Portfolio de Testing 
 
 Mi portfolio se compone de tres enfoques principales:
 
@@ -23,8 +23,8 @@ Mi portfolio se compone de tres enfoques principales:
 ✔️ Resignificación del error como parte del proceso técnico  
 ✔️ Integración de heurísticas UX/UI desde el diseño gráfico digital  
 
-📄 Documentación:  
-- [README – Test Cases](./Test%20Cases/README.md)  → Explica qué son los casos de prueba, cómo se diseñan y qué herramientas se usan.  
+  
+📁 [Test Cases](https://github.com/hevieri/TestingPortfolio/tree/main/Test%20Cases)
 
 ---
 
@@ -34,8 +34,8 @@ Mi portfolio se compone de tres enfoques principales:
 🔹 Automatización de flujos críticos con Cypress y validación de APIs con Postman  
 🔹 Evaluación de relevancia en resultados de búsqueda (Search Relevance Testing)  
 
-📄 Documentación:  
-- [README – Search Relevance Testing](./Search%20Relevance/README.md) → Explica cómo se evalúan resultados de búsqueda, etiquetas de relevancia y herramientas de anotación.  
+  
+📁 [Search Relevance](https://github.com/hevieri/TestingPortfolio/tree/main/Search%20Relevance) 
 
 ---
 
@@ -44,8 +44,8 @@ Mi portfolio se compone de tres enfoques principales:
 🔹 Evaluación de interfaces gráficas con criterios de usabilidad  
 🔹 Testing de prototipos y auditorías de experiencia de usuario  
 
-📄 Documentación:  
-- [README – Usability Testing](./Usability/README.md)  → Explica qué es la evaluación heurística, las 10 heurísticas de Nielsen, herramientas y ejemplos prácticos.  
+ 
+📁 [Usability Testing](https://github.com/hevieri/TestingPortfolio/tree/main/Usability%20Testing)
 
 ---
 

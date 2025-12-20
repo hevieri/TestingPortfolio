@@ -2,6 +2,9 @@
 
 [![Estado del repo](https://img.shields.io/badge/status-complete-brightgreen)](https://talentolab-test.netlify.app/) [![Tests documentados](https://img.shields.io/badge/tests-documented-blue)](https://docs.google.com/spreadsheets/d/1rg3JzDnNXgR7xUXsvFjv7wAk1GFYR7YxMcPOVRwwVug/edit?usp=sharing)
 
+
+📁 [Test Cases](https://github.com/hevieri/TestingPortfolio/tree/main/Test%20Cases)
+
 Este repositorio acompaña la documentación completa del proceso de testing realizado sobre la página bajo prueba: https://talentolab-test.netlify.app/.  
 Dentro del archivo Excel enlazado abajo encontrás todos los artefactos agrupados: storytelling, epics, features, criterios de aceptación, testset, bugreports, matriz de cobertura y el reporte del ciclo de pruebas.
 

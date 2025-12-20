@@ -1,15 +1,24 @@
 # Testing Portfolio — Talento Tech
 
-[![Estado del repo](https://img.shields.io/badge/status-complete-brightgreen)](https://talentolab-test.netlify.app/) [![Tests documentados](https://img.shields.io/badge/tests-documented-blue)](https://docs.google.com/spreadsheets/d/1rg3JzDnNXgR7xUXsvFjv7wAk1GFYR7YxMcPOVRwwVug/edit?usp=sharing)
-
-
-📁 [Test Cases](https://github.com/hevieri/TestingPortfolio/tree/main/Test%20Cases)
+[![Estado del repo](https://img.shields.io/badge/status-complete-brightgreen)](https://talentolab-test.netlify.app/) [![Tests documentados](https://img.shields.io/badge/tests-documented-blue)](https://docs.google.com/spreadsheets/d/1LgeSr9WK2LdcTHcHX1bqfr6deJZbgFno2OVDjyZQ-sI/edit?usp=sharing)
 
 Este repositorio acompaña la documentación completa del proceso de testing realizado sobre la página bajo prueba: https://talentolab-test.netlify.app/.  
 Dentro del archivo Excel enlazado abajo encontrás todos los artefactos agrupados: storytelling, epics, features, criterios de aceptación, testset, bugreports, matriz de cobertura y el reporte del ciclo de pruebas.
 
 ---
 
+## 📎 Enlace al archivo principal
+
+- 📁 [Directorio Principal](https://drive.google.com/drive/folders/1E-iWD7Dry8OfdjmBqpYuYYU5pcsNxHMa?usp=sharing)
+- 📁 [Documentación PDF](https://drive.google.com/file/d/1DiQ9_OGb7NbNerUySy_JtrvMLZ9nbEg_/view?usp=sharing)
+- 📁 [Documentación Excel](https://docs.google.com/spreadsheets/d/1LgeSr9WK2LdcTHcHX1bqfr6deJZbgFno2OVDjyZQ-sI/edit?usp=sharing)
+
+- 📁 [Informe Jira](https://hevieri1.atlassian.net/jira/software/projects/SCRUM/boards/1/reports/burnup?selectedIssue=SCRUM-5&atlOrigin=eyJpIjoiMzg0YTNkZDljMzkyNDQyY2I2ZmZjZDdmODFlM2Q0MjUiLCJwIjoiaiJ9)
+- 📁 [Diagrama de flujo Jira](https://hevieri1.atlassian.net/jira/software/projects/SCRUM/boards/1/reports/cumulative)
+
+
+
+---
 ## Qué vas a encontrar en el Excel
 
 - **Story telling**: contexto del producto, usuarios y user journey.  
@@ -35,11 +44,3 @@ Dentro del archivo Excel enlazado abajo encontrás todos los artefactos agrupado
 
 ---
 
-## Enlace al archivo principal
-
-
-https://docs.google.com/spreadsheets/d/1rg3JzDnNXgR7xUXsvFjv7wAk1GFYR7YxMcPOVRwwVug/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1eLYD_9UDMD8f4UIoYJN2T3rqiYZBT4F1KVG4kJ_i0RU/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1LgeSr9WK2LdcTHcHX1bqfr6deJZbgFno2OVDjyZQ-sI/edit?usp=sharing
-
----

@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/Test%20Data-Google%20Sheets?color=0F9D58" />
 </a>
 
+📁 [Search Relevance](https://github.com/hevieri/TestingPortfolio/tree/main/Search%20Relevance)
+
 Este repositorio acompaña la documentación del proyecto…
 
 Este repositorio acompaña la documentación del proyecto de evaluación de productos frente a queries de búsqueda.  
@@ -11,7 +13,7 @@ El archivo Excel enlazado contiene todos los casos registrados: queries, product
 
 ---
 
-## 📂 Qué vas a encontrar en el Excel
+##  Qué vas a encontrar en el Excel
 
 - 🔍 **Search Query (SQ):** texto de la búsqueda original.  
 - 📦 **Offered Product (OP):** producto analizado, con link al PDP y/o captura.  
@@ -36,7 +38,7 @@ El archivo Excel enlazado contiene todos los casos registrados: queries, product
 ---
 
 
-## 📁 Recursos del proyecto
+##  Recursos del proyecto
 
 - 📑 **Excel/Google Sheets:** dataset con todos los casos documentados.  
 - 🖼️ **Screenshots:** carpeta con capturas de SQ, OP y PDP.  

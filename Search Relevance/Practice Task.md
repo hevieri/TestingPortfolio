@@ -4,7 +4,11 @@
   <img src="https://img.shields.io/badge/Test%20Data-Google%20Sheets?color=0F9D58" />
 </a>
 
-📁 [Search Relevance](https://github.com/hevieri/TestingPortfolio/tree/main/Search%20Relevance)
+## 📎 Enlace al archivo principal
+
+- 📁 [Directorio Principal](https://drive.google.com/drive/folders/1ebp3qqtNI3In7jzwbeD-6P7L6KHJ7-tC?usp=sharing)
+- 📁 [Documentación Excel](https://docs.google.com/spreadsheets/d/1tqy0uJ6JeWUeaKltBU5_eeEovP3oHcF2Nels4Nv198U/edit?usp=sharing)
+
 
 Este repositorio acompaña la documentación del proyecto…
 
